@@ -1,0 +1,36 @@
+{
+  "name": "Car Price Dark Theme",
+  "background": "#0E1117",
+  "foreground": "#E6EDF3",
+  "tableAccent": "#22D3EE",
+  "dataColors": [
+    "#38BDF8",
+    "#22D3EE",
+    "#A78BFA",
+    "#34D399",
+    "#F472B6"
+  ],
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#161B22" } },
+            "transparency": 0
+          }
+        ],
+        "title": [
+          {
+            "color": { "solid": { "color": "#F9FAFB" } },
+            "fontSize": 14
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#E6EDF3" } }
+          }
+        ]
+      }
+    }
+  }
+}
